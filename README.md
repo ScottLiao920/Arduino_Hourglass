@@ -14,7 +14,12 @@ For NTU DV Club AY2018
     With no margin hence it may drop outside of LED matrix.
     Need to do calibration calculated by matrix.
     Only 1 led will light up, which means an hourglass with only one sand.
-    
+#### 2018.10.1 Version 2
+    Happy birthday, PRC!
+    Uploaded version 2 with more led bulbs.
+    Margin feature is done.
+    Go_up function seems a little wrong.
+    I am really a little genius!
 ## File explanation
 ### tryout
     Version 1, including all features.
@@ -26,3 +31,6 @@ For NTU DV Club AY2018
 ### ledMatrixTest
     Including:
     An ino file which can test wiring and led matrix.
+### version 2
+    Code for version 2;
+    need to implement go_up function;
