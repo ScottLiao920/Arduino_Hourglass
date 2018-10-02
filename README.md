@@ -20,6 +20,10 @@ For NTU DV Club AY2018
     Margin feature is done.
     Go_up function seems a little wrong.
     I am really a little genius!
+#### 2018.10.2 Version 3
+    Done with the go_up function part.
+    Need to implement some function like wakeup and sleep;
+    Can try add inertia to the model. 
 ## File explanation
 ### tryout
     Version 1, including all features.
@@ -34,3 +38,5 @@ For NTU DV Club AY2018
 ### version 2
     Code for version 2;
     need to implement go_up function;
+### version 3
+    Version 2 with better if_else structures and working go-up function.
