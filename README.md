@@ -4,7 +4,7 @@ For NTU DV Club AY2018
     This is for NTU Da Vinci 3D Printing and Robomasters Club AY2018-2019 Arduino Hourglass Workshop.
 ## Material List
     8*8 LED matrix with MAX7219 register (qty:2)
-    MPU6050 GY521 6 AXIS ACCELEROMETER + GYRO (qyt:2)
+    MPU6050 GY521 6 AXIS ACCELEROMETER + GYRO (qyt:1)
     Arduino Uno(for early versions) (qty:1)
     Arduino Nano(for later versions and formal one) (qty:1)
     Jumper wires
